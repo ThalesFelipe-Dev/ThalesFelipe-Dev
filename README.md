@@ -12,7 +12,6 @@
        alt="snake" /></a>
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -20,20 +19,16 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
 
 <img width="48" height="48" src="https://img.icons8.com/emoji/48/brazil-emoji.png" alt="brazil-emoji"/>
   
-- 🔭 I’m currently working on ** Javascript, Node.js, SQL, PostgreSQL, Git**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🔭 I’m currently working on ** .Net, c#, java, Javascript, Node.js, Python, AngularV17 and SQL**
 
 - 📫 Feel free to reach me out **thalesfelipe220414@gmail.com**
 
 - 🏠 Also We've a tech community called [innovadot](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -41,7 +36,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ThalesFelipe-Dev&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThalesFelipe-Dev&bg_color=8a97ff&color=ffffff&line=513cec&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
@@ -64,10 +59,8 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -78,10 +71,9 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,cs,java,python,dotnet,angular,mysql,sqlite,postgresql,mongodb,aws,gcp,azure,git,github,figma,visualstudio,vscode,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,nodejs,cs,java,python,dotnet,angular,mysql,sqlite,postgresql,mongodb,aws,gcp,azure,git,github,figma,visualstudio,vscode,eclipse&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -97,7 +89,6 @@
 <a href="https://discord.gg/KuAPEkB4" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
