@@ -28,6 +28,9 @@
 - 📫 Feel free to reach me out **thalesfelipe220414@gmail.com**
 
 - 🏠 Also We've a tech community called [innovadot](https://discord.com/invite/p4TWyft886).
+
+
+  
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
@@ -71,7 +74,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,nodejs,cs,java,python,dotnet,angular,mysql,sqlite,postgresql,mongodb,aws,gcp,azure,git,github,figma,visualstudio,vscode,eclipse&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,angular,js,nodejs,cs,java,python,dotnet,mysql,sqlite,postgresql,mongodb,aws,gcp,azure,git,github,figma,visualstudio,vscode,eclipse&perline=14" />
   </a>
 </p>
 
